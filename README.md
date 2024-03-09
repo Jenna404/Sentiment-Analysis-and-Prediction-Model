@@ -7,3 +7,5 @@ Sentiment analysis of COVID-related tweets (nltk)
 Crisis management dashboard design (Figma)
 
 Future work: BERT for sentiment analysis, time series models (ARIMA, FB Prophet, XGboost), ARIMAX/VAR with explanatory variables and sentiment time series
+
+Presentation: https://prezi.com/p/edit/ezrumaustc7k/
